@@ -112,7 +112,10 @@ Streamlit will provide a local address, usually `http://localhost:8501`.
 
 The application is deployed on **Streamlit Community Cloud**:
 
-[Open the live Movie Recommendation System]<https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/>
+<p align="left">
+  <a href=https://movie-recommender-hftw7dlefiwwxy3tet9yye.streamlit.app/>Open the live Movie Recommendation System</a>
+</p>
+
 
 For cloud deployment, add the following to the app's **Secrets** settings in Streamlit Community Cloud (use your own key):
 
