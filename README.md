@@ -3,7 +3,7 @@
 A **Machine Learning-based Movie Recommendation System** that uses **Content-Based Filtering** to suggest movies similar to a movie selected by the user. The application is built with Python and Streamlit, and uses the TMDB API to retrieve movie poster images.
 
 <p align="left">
-  <a href=["https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/"](https://movie-recommender-hftw7dlefiwwxy3tet9yye.streamlit.app/)>Live Demo</a> ·
+  <a href=[https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/](https://movie-recommender-hftw7dlefiwwxy3tet9yye.streamlit.app/)>Live Demo</a> ·
   <a href="https://github.com/rohanprajapat25/movie-recommender">GitHub Repository</a>
 </p>
 
