@@ -127,7 +127,9 @@ Do not upload your local `.streamlit/secrets.toml` file to GitHub.
 
 ## How to Use
 
-1. Open the [live application]<https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/>
+1. <p align="left">
+  <a href=https://movie-recommender-hftw7dlefiwwxy3tet9yye.streamlit.app/>Open the [live application]</a>
+</p>
 2. Select or type a movie title in the dropdown.
 3. Click **Recommend**.
 4. Browse the recommended movie titles and poster images.
