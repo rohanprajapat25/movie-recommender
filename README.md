@@ -112,7 +112,7 @@ Streamlit will provide a local address, usually `http://localhost:8501`.
 
 The application is deployed on **Streamlit Community Cloud**:
 
-[Open the live Movie Recommendation System](https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/)
+[Open the live Movie Recommendation System]<https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/>
 
 For cloud deployment, add the following to the app's **Secrets** settings in Streamlit Community Cloud (use your own key):
 
@@ -124,7 +124,7 @@ Do not upload your local `.streamlit/secrets.toml` file to GitHub.
 
 ## How to Use
 
-1. Open the [live application](https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/).
+1. Open the [live application]<https://movie-recommender-hftw7dlefiwwwxy3tet9yye.streamlit.app/>
 2. Select or type a movie title in the dropdown.
 3. Click **Recommend**.
 4. Browse the recommended movie titles and poster images.
